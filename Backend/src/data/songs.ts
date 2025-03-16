@@ -1,0 +1,22 @@
+export const songs = [
+    "Shape of You",
+    "Bohemian Rhapsody",
+    "Someone Like You",
+    "Blinding Lights",
+    "Smells Like Teen Spirit",
+    "Rolling in the Deep",
+    "Thinking Out Loud",
+    "Hey Jude",
+    "Believer",
+    "Uptown Funk",
+    "Let It Be",
+    "Lose Yourself",
+    "Halo",
+    "Yesterday",
+    "Love Story",
+    "Hotel California",
+    "Wonderwall",
+    "Sweet Child O' Mine",
+    "Billie Jean",
+    "I Will Always Love You"
+];

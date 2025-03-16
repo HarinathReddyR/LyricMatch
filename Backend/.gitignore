@@ -1,0 +1,6 @@
+.vercel
+
+.env
+
+build
+node_modules
